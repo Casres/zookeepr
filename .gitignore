@@ -3,6 +3,8 @@
 
 node 
 .DS_Store
+>.vscode
+
 
 # Logs
 logs
